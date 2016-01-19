@@ -1,0 +1,11 @@
+Q1:
+Edison invented phonograph, which was the first to be able to reproduce the recorded sound. 
+Bell was one of the primary inventors of the telephone, actually, he was credited with patenting the first practical telephone.
+¨¦douard-L¨¦on Scott de Martinville invented the earliest known sound recording device, the phonautograph, which could transcribe sound waves.
+Valdemar Poulsen also made significant contributions to early radio technology, including developing a magnetic wire recorder and the first continuous wave radio transmitter, the Poulsen arc transmitter 
+
+Q2:
+The quality of a digital audio recording depends heavily on two factors: the sample rate and the sample format or bit depth. Increasing sample rate increases the quality of the recording, but also increases the size of audio file.
+Higher sample rates allow higher audio frequencies to be represented. Provided that the sample rate is more than double the highest audio frequency present, the waveform can be reconstructed exactly from the digital samples. Frequencies that are more than half the sample rate cannot be correctly represented in digital samples. "Half the sample rate" therefore represents an upper limit called the Nyquist frequency, and the analog waveform must be entirely below this limit to be correctly represented digitally. Analog frequencies at this limit or above cannot be correctly represented by the digital samples and would cause a kind of distortion
+Because the hearing range of human ears is roughly 20 Hz to 20,000 Hz, and via the Nyquist¨CShannon sampling theorem the sampling frequency must be greater than twice the maximum frequency one wishes to reproduce, the sampling rate therefore had to be greater than 40 kHz.
+In addition to this, signals must be low-pass filtered before sampling, otherwise aliasing occurs, and, while an ideal low-pass filter would perfectly pass frequencies below 20 kHz (without attenuating them) and perfectly cut off frequencies above 20 kHz. The 44.1 kHz sampling frequency allows for a 2.05 kHz transition band. So 44.1kHz is chosen as sample rate of CD audio for a practical and economical concerning.
